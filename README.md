@@ -3,18 +3,12 @@ Problem Scenario:      The customer always looks forward to specialized treatmen
 Problem Objective:      As a data scientist, you should perform exploratory data analysis and perform cluster analysis to create cohorts of songs. The goal is to gain a better understanding of the various factors that contribute to creating a cohort of songs.
 
 
-Steps to Perform:
-
->>>>> Initial data inspection and data cleaning:      Check whether the data has duplicates, missing values, irrelevant (erroneous entries) values, or outliers.
-                                                      Depending on your findings, clean the data for further processing.
->>>>> 
-
->>>>> Perform Exploratory Data Analysis and Feature Engineering:   Use appropriate visualizations to find out which two albums should be recommended to anyone based on the number of popular songs in an album.
-                                                                   Perform exploratory data analysis to dive deeper into different features of songs and identify the pattern.
-                                                                   Discover how a song's popularity relates to various factors and how this has changed over time.
-                                                                   Comment on the importance of dimensionality reduction techniques, share your ideas and explain your observations.
-
-
->>>>>> Perform Cluster Analysis:         Identify the right number of clusters
-                                         Use appropriate clustering algorithm
-                                         Define each cluster based on the features
+Check whether the data has duplicates, missing values, irrelevant (erroneous entries) values, or outliers.
+Depending on your findings, clean the data for further processing.
+Use appropriate visualizations to find out which two albums should be recommended to anyone based on the number of popular songs in an album.
+Perform exploratory data analysis to dive deeper into different features of songs and identify the pattern.
+Discover how a song's popularity relates to various factors and how this has changed over time.
+Comment on the importance of dimensionality reduction techniques, share your ideas and explain your observations.
+Identify the right number of clusters
+Use appropriate clustering algorithm
+Define each cluster based on the features
